@@ -1,6 +1,6 @@
 # PROJECT WITH OPENCV
 
-## Folder Structure
+## Project Structure
 ```
 .
 ├─ .git (excluded)
